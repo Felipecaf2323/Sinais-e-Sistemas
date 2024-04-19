@@ -1,1 +1,1 @@
-# Sinais-e-Sistemas
+# Laboratórios da disciplina Sinais e Sistemas
